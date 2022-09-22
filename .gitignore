@@ -1,4 +1,4 @@
 
 .vscode
-git # dependencies
+public/css
 node_modules/
